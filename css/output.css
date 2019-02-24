@@ -1,0 +1,30 @@
+body {
+  padding: 2% 6%;
+  color: #bbbbcf;
+  font-family: "Titillium";
+}
+
+header nav ul {
+  margin-left: 52%;
+}
+
+header nav ul li {
+  display: inline;
+  padding-left: 5%;
+}
+header nav ul li a {
+  color: #303030;
+}
+
+section img {
+  width: 90%;
+}
+
+.basic-info .about h4 {
+  font-style: italic;
+}
+.basic-info .about p {
+  max-width: 50%;
+}
+
+/*# sourceMappingURL=output.css.map */

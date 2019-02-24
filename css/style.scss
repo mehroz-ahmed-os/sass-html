@@ -1,0 +1,28 @@
+@import '../css/variables.scss';
+
+body {
+    padding: 2% 6%;
+    color: $grey;
+    font-family: $font_family;
+}
+header nav ul {
+    margin-left: 52%;
+}
+header nav ul li {
+    display: inline;
+    padding-left: 5%;
+    a {
+        color: $dark_grey;
+    }
+}
+section img {
+    width: 90%;
+}
+.basic-info .about{
+    h4 {
+        font-style: italic;
+    }
+    p {
+        max-width: 50%;
+    }
+} 
